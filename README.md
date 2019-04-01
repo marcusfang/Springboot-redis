@@ -1,0 +1,3 @@
+springboot redis
+1. 修改resources\application.yml中的redis连接配置信息
+2. 运行单元测试用例com.didispace.ApplicationTests体会完整的代码逻辑
